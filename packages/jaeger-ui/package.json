@@ -29,7 +29,7 @@
     "less": "3.9.0",
     "less-loader": "4.1.0",
     "less-vars-to-js": "^1.2.1",
-    "react-app-rewired": "2.0.1",
+    "react-app-rewired": "2.1.8",
     "react-scripts": "2.1.2",
     "react-test-renderer": "^15.6.1",
     "sinon": "7.3.2",
